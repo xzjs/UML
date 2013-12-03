@@ -1,0 +1,8 @@
+﻿生成启动时间为 11/26/2013 8:40:33 PM。
+     1>项目“D:\work\c++\QtTestBed\QtTestBed\QtTestBed.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Users\xzjs\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props(6,3): error MSB4067: 无法识别元素 <Project> 下面的元素 <IncludePath>。
+     1>已完成生成项目“D:\work\c++\QtTestBed\QtTestBed\QtTestBed.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.15

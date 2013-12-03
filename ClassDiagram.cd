@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Book" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAgABAAGgCAAQAAAAAAAAAAAABQAEAAAA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABAAgAAAAIAAAAAAEAAEAAAAAAAA=</HashCode>
+      <FileName>DataBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAgAAAAEAAAAAAAAAAAAAAAFCABAAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAAAIAgABEAEAAAAAAAGQAJEAIBAGGAkAAE=</HashCode>
+      <FileName>md5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserBook" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAEAAAEgAAAAAAoAQkAAAAAAARAAAAIAAAAAAA=</HashCode>
+      <FileName>UserBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YY" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAEAAAAABQAAQEAAAAiAYAAQACAAAA=</HashCode>
+      <FileName>YY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QtTestBed" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>qttestbed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User_reserve" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>user_reserve.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User_History" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>user_history.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User_changepwd" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>user_changepwd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAEIABAAIAAAAAAAAAAAAAAAAAAAAAAoA=</HashCode>
+      <FileName>user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAEEAIAAABACBAAAAAAAAAAAAAAAAAwAAA=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAEAAAAABAAAAAAAAAAAAABAAAAAACAAA=</HashCode>
+      <FileName>login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classify" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAABEAAAAAAAAADgPwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classify.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin_sinfo" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>admin_sinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin_money" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>admin_money.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin_lb" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>admin_lb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin_binfo" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAACAAAAAAAAAEAAAAAAABAAAAAA=</HashCode>
+      <FileName>admin_binfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAAAAAACEAAAAAABAAACAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Classify" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAEAAAAJAAAAAAAACAAAAEAAAAQAIAAAAOAfEAAABBA=</HashCode>
+      <FileName>GeneratedFiles\ui_classify.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Login" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAACAABAAAAAAAAAAAAQAJAAAAAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MainWindow" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oABAAIABAAEAQAAQCAAQAMAAAAQAIAAAgAAAAAAABBA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_User" Collapsed="true">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAAABAAAAAAAIAAAAQAIAAAAAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_User_changepwd" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>4AAAAAAAAAAAABAAAAAAgAAgAAQAIAAgAAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_changepwd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_User_History" Collapsed="true">
+    <Position X="6.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAQAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_history.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_User_reserve" Collapsed="true">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAABAAAAAAAAAAAAQAJAAAAAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_reserve.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Admin_sinfo" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4gAAAAAAAQAAAAAAAAgAAAAAIAQAJACAAAAAAAAABBI=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_sinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Admin_money" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAABBAAAAAAAAAAAQAIACAAAAAAAAABBA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_money.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Admin_lb" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAAABAAAAgAAAAAAAQAJAAAAAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_lb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Admin_binfo" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RgAAQAoAAAAAAAAQAAAAAAAAAAQAIACAAgAgAAAACTA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_binfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Admin" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAEAQBAAAAAAAIAAAAQAIACAgAAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QtTestBedClass" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAQAAAAAAAAIAAAAQAIAAAgAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_qttestbed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::User_reserve" Collapsed="true">
+    <Position X="9.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_reserve.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::User_History" Collapsed="true">
+    <Position X="6.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_history.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::User_changepwd" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_user_changepwd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::User" Collapsed="true">
+    <Position X="3.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MainWindow" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Login" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Classify" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_classify.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Admin_sinfo" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_sinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Admin_money" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_money.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Admin_lb">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_lb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Admin_binfo" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin_binfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Admin" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QtTestBedClass" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_qttestbed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="qt_meta_stringdata_Admin_t" Collapsed="true">
+    <Position X="12" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_admin.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Admin_binfo_t" Collapsed="true">
+    <Position X="12" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_admin_binfo.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Admin_lb_t" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_admin_lb.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Admin_money_t" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_admin_money.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Admin_sinfo_t" Collapsed="true">
+    <Position X="17.25" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_admin_sinfo.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Classify_t" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_classify.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Login_t" Collapsed="true">
+    <Position X="15.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_login.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_MainWindow_t" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_mainwindow.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_QtTestBed_t" Collapsed="true">
+    <Position X="12" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_qttestbed.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_User_t" Collapsed="true">
+    <Position X="12" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_user.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_User_changepwd_t" Collapsed="true">
+    <Position X="13.75" Y="6.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_user_changepwd.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_User_History_t" Collapsed="true">
+    <Position X="15.5" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_user_history.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_User_reserve_t" Collapsed="true">
+    <Position X="17.25" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_user_reserve.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

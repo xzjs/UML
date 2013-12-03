@@ -14,7 +14,7 @@ public:
 	string ID;
 	string Name;
 	string Pwd;
-//0 管理员   ；1学生
+//1 管理员   ；0学生
 	string Type; 
 //用户的欠款金额
 	double Cost;

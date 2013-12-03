@@ -49,6 +49,9 @@ void Admin_lb::on_pushButton_clicked()
       case 5:
           QMessageBox::warning(this,tr("警告:"), tr("该书已被预约，不能再借阅"), QMessageBox::Yes);
           break;
+	  case 6:
+		  QMessageBox::warning(this,tr("警告"),tr("管理员不可借书"),QMessageBox::Yes);
+		  break;
       default:
           break;
       }

@@ -162,7 +162,7 @@ int UserBook::CheckUserCanLend(string UserID)
 			{
 				return 1;
 			}
-			else if(ys[0].Type=="0")
+			else if(ys[0].Type=="1")
 			{
 				return 6;
 			}

@@ -51,7 +51,7 @@ void Admin_sinfo::on_pushButton_clicked()
 			else
 				ui->textEdit->setText("已添加管理员:" + ui->userlineEdit->text().trimmed());
 		}else{
-			ui->textEdit->setText("已存在");
+			ui->textEdit->setText("existing");
 		}
 	}
 	else

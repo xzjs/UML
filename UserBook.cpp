@@ -162,6 +162,10 @@ int UserBook::CheckUserCanLend(string UserID)
 			{
 				return 1;
 			}
+			else if(ys[0].Type=="0")
+			{
+				return 6;
+			}
 			else
 			{
 				return 0;
@@ -180,15 +184,7 @@ bool UserBook::CheckCost(YY y)
 	vector<UserBook>vbs;
 	if(BorrowTab(y,vbs)>0)
 	{
-		/*for each (UserBook var in vbs.data)
-		{
-		Date date;
-		int days=var.LendDate.Compare(date);
-		if(days>30)
-		{
-		sum+=(days-30)*0.1;
-		}
-		}*/
+		
 		for(int i=0;i<vbs.size();i++)
 		{
 			Date date;

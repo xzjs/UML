@@ -79,8 +79,11 @@ void get_info(vector<YY>& stuArr,string address)
 	while(getline(inf,s))
 	{
 		StringSplit(s,'|',vec);
-		stuArr.push_back(YY(vec[0],vec[1],vec[2],vec[3],stringToNum<double>(vec[4])));   
-		i++;
+		if(vec.size()==5)
+		{
+			stuArr.push_back(YY(vec[0],vec[1],vec[2],vec[3],stringToNum<double>(vec[4])));   
+			i++;
+		}
 	}   
 	inf.close();
 

@@ -56,12 +56,15 @@ public:
         againlineEdit = new QLineEdit(User_changepwd);
         againlineEdit->setObjectName(QStringLiteral("againlineEdit"));
         againlineEdit->setGeometry(QRect(180, 130, 201, 25));
+        againlineEdit->setEchoMode(QLineEdit::PasswordEchoOnEdit);
         newlineEdit = new QLineEdit(User_changepwd);
         newlineEdit->setObjectName(QStringLiteral("newlineEdit"));
         newlineEdit->setGeometry(QRect(180, 80, 201, 26));
+        newlineEdit->setEchoMode(QLineEdit::PasswordEchoOnEdit);
         oldlineEdit = new QLineEdit(User_changepwd);
         oldlineEdit->setObjectName(QStringLiteral("oldlineEdit"));
         oldlineEdit->setGeometry(QRect(180, 30, 201, 26));
+        oldlineEdit->setEchoMode(QLineEdit::Password);
         pushButton = new QPushButton(User_changepwd);
         pushButton->setObjectName(QStringLiteral("pushButton"));
         pushButton->setGeometry(QRect(100, 200, 75, 31));

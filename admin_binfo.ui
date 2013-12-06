@@ -56,7 +56,7 @@
     </font>
    </property>
    <property name="text">
-    <string>BookID</string>
+    <string>书号</string>
    </property>
    <property name="buddy">
     <cstring>userlineEdithao</cstring>
@@ -77,7 +77,7 @@
     </font>
    </property>
    <property name="text">
-    <string>BookName：</string>
+    <string>书名</string>
    </property>
    <property name="buddy">
     <cstring>userlineEditming</cstring>
@@ -164,7 +164,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Publish</string>
+    <string>出版社</string>
    </property>
    <property name="buddy">
     <cstring>userlineEditchu</cstring>
@@ -185,7 +185,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Editor</string>
+    <string>作者</string>
    </property>
    <property name="buddy">
     <cstring>userlineEditzuo</cstring>
@@ -314,7 +314,7 @@
     </font>
    </property>
    <property name="text">
-    <string>BookItem</string>
+    <string>图书类别</string>
    </property>
    <property name="buddy">
     <cstring>comboBox</cstring>

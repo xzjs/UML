@@ -464,6 +464,16 @@ bool DataBase::data_select(UserBook u, int i, vector<UserBook>& selectArr)
 			}
 		}
 		break;
+		case 3://cout<<1<<endl;
+		for(count = 0;count < length;count++)
+		{
+			if(u.UserID == UArr[count].UserID)
+			{
+				//cout<<"找到学生，编号为："<<count<<endl;//TEST
+				selectArr.push_back(UArr[count]);
+			}
+		}
+		break;
 	default:return false;
 	}
 	if(selectArr.size()==0)

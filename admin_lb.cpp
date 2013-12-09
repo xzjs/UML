@@ -67,7 +67,7 @@ void Admin_lb::on_pushButton_2_clicked()
 	    
 		if( !Book::Select(ui->userlineEdit->text().trimmed().toStdString(), bo))
 		{
-			QMessageBox::warning(this,tr("警告:"), tr("No such book,input again please"), QMessageBox::Yes);
+			QMessageBox::warning(this,tr("警告:"), tr("没有该书，请重新输入"), QMessageBox::Yes);
 		}
 		else
 		{
@@ -77,14 +77,14 @@ void Admin_lb::on_pushButton_2_clicked()
 				   if( ui->userlineEdit_2->text().trimmed().toStdString() != "")
           			{
 					    ui->userlineEdit_2->clear();
-	    	            QMessageBox::warning(this,tr("提示:"), tr("Don't have to input the UserID") + "<br>" + tr("Succeed to return the book"), QMessageBox::Yes);
+	    	            QMessageBox::warning(this,tr("提示:"), tr("不必输入用户名") + "<br>" + tr("还书成功"), QMessageBox::Yes);
 				    }
 				   else
 				   {
-					   QMessageBox::warning(this,tr("提示:"), tr("Succeed to return the book"), QMessageBox::Yes);
+					   QMessageBox::warning(this,tr("提示:"), tr("还书成功"), QMessageBox::Yes);
 				   }
 			   }
 		      else
-			       QMessageBox::warning(this,tr("警告:"), tr("This book wasn't lent, input again please"), QMessageBox::Yes);
+			       QMessageBox::warning(this,tr("警告:"), tr("该书没有被借，请重新输入"), QMessageBox::Yes);
 		}
 }

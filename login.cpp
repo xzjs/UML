@@ -45,8 +45,9 @@ void Login::on_pushButton_clicked()
 			us.show();
 			us.show_ID();
 			accept();
+			ui->pwdlineEdit->clear(); //清空密码
 		}else{
-			
+			ui->pwdlineEdit->clear(); //清空密码
 			adm.show();
 			adm.show_id();
 			accept();
